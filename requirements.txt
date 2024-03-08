@@ -1,0 +1,12 @@
+altgraph==0.17.4
+certifi==2024.2.2
+charset-normalizer==3.3.2
+idna==3.6
+Locales==0.0.2
+mpv==1.0.5
+ordered-set==4.1.0
+packaging==23.2
+requests==2.31.0
+urllib3==2.2.1
+ytmusicapi==1.5.4
+zstandard==0.22.0

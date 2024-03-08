@@ -5,9 +5,11 @@ This uses an unofficial python youtube music api, as well as the mpv python modu
 Right now, you will need to provide your own oauth.json.
 As expected, no warrenty or guarentees on this.
 ## TODO
-Better readme
-Allow more than just song searching
-Allow user input to control playback
-Clean up stored API responses
-Unauthorized clients
-...
+<ul>
+<li> Better readme</li>
+<li>Allow more than just song searching</li>
+<li>Allow user input to control playback</li>
+<li>Clean up stored API responses</li>
+<li>Unauthorized clients</li>
+<li>...</li>
+</ul>
